@@ -1,0 +1,6 @@
+{
+  "name": "Aman Color Lab",
+  "description": "Cinematic photo color-grading app with 3D LUT support, professional film presets, and RAW architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

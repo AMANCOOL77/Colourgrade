@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera body ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:pathData="M 54,26 A 28,28 0 1,0 54,82 A 28,28 0 1,0 54,26 Z" />
+
+    <!-- Aperture Blades with cinematic colors -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M 54,30 L 68,44 L 60,54 Z" />
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M 76,46 L 68,64 L 58,58 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 70,72 L 50,76 L 52,64 Z" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M 44,78 L 36,60 L 48,58 Z" />
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M 32,58 L 42,40 L 50,48 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M 40,34 L 60,34 L 52,46 Z" />
+
+    <!-- Center Aperture Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,49 A 5,5 0 1,0 54,59 A 5,5 0 1,0 54,49 Z" />
+
+    <!-- Lens Accent Dots -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M 76,32 A 3,3 0 1,0 76,38 A 3,3 0 1,0 76,32 Z" />
+</vector>
